@@ -1,8 +1,9 @@
 footer {
   margin: 0;
-  /* text-align: center; */
-  display: flex;
+  text-align: center;
+  /* display: flex;
   justify-content: center;
+  align-items: flex-end; */
   padding: 2ch;
   background: black;
   color: white;

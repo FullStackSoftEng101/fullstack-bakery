@@ -1,0 +1,17 @@
+/* global styles  */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: sans-serif;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  display: flex;
+  gap: 3ch;
+}

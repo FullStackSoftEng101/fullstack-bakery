@@ -1,0 +1,11 @@
+article {
+  display: flex;
+  flex-direction: column;
+  gap: 1ch;
+  padding: 1ch;
+}
+
+.testimonial {
+  background-color: lightgrey;
+  padding: 2ch;
+}

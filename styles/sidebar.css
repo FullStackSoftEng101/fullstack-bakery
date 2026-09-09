@@ -1,0 +1,22 @@
+aside {
+  padding: 1ch;
+  padding-top: 0;
+  width: 15ch;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 1ch;
+}
+
+li {
+  background: red;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+  padding: 1ch;
+}
+li:hover {
+  cursor: pointer;
+  background: green;
+}
